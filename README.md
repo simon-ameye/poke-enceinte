@@ -1,6 +1,6 @@
 # Poké-Enceinte - La Sphère Audiophile Ultime
 
-![grosse](pics/1.png)
+![grosse](pics/0.png)
 
 ## Description
 La Poké-Enceinte est une enceinte audiophile d'exception, fruit d'une collaboration unique entre Tristan, expert en acoustique, et Simon, passionné de mécanique et d'embarqué. Ce projet fusionne les dernières avancées en acoustique et traitement du signal avec un design inspiré de l'univers Pokémon.
@@ -33,7 +33,7 @@ Tristan a consacré sa carrière à perfectionner l'art du son, avec une thèse 
 - **Modèle Sans Compromis** : Enceinte de 45 cm de diamètre, conçue pour des basses dévastatrices et une puissance acoustique maximale. Ce modèle intègre deux woofers en push-push de 350 mm. **Prix : 3500€**.
 - **Modèle Adapté à Tous les Intérieurs** : Version plus compacte de 20 cm de diamètre, idéale pour s'intégrer discrètement dans tous types de pièces. Ce modèle n'intègre pas la transmission laser S-PDIF. **Prix : 1000€**.
 
-![petite](pics/0.png)
+![petite](pics/1.png)
 
 ---
 
