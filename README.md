@@ -64,3 +64,4 @@ La Poké-Enceinte ne se contente pas d'être un haut-parleur, c'est une expérie
 
 Rejoignez-nous dans cette aventure sonore et laissez-vous transporter par la Poké-Enceinte !
 
+![petite](pics/2.png)
